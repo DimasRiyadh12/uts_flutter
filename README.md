@@ -54,7 +54,7 @@
 flutter pub get
 flutter run
 ```
-### Berikut adalah design ui / perancangan tampilan login di figma :
+### Berikut adalah ui design / perancangan tampilan login di figma :
 
 ![img](ss/1.png) 
 
