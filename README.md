@@ -1,7 +1,7 @@
 <p align="center">PEMROGRAMAN MOBILE
 </p>
 <p align="center">
-	UTS
+	UTS (Ujian Tengah Semester)
 </p>
 <p align="center">
 	Dosen Pengampu : Muhammad Najamuddin Dwi Miharja, S.Kom, M.kom
@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-                 Nama  : Jose Fisto
+                 Nama  : Dimas Riyadh Alfajri
 </p>
 <p align="center">
-                 NIM   : 312010119
+                 NIM   : 312010029
 </p>
 <p align="center">
                  Kelas : TI.20 A.1
@@ -56,8 +56,8 @@ flutter run
 ```
 Berikut adalah perancangan tampilan login di figma :
 
-[!img](ss/1.png)
+<img src="ss/1.png"
 
 Dan ini adalah tampilan login sederhana menggunakan flutter, berikut output nya :
 
-[!img](ss/2.png)
+<img src="ss/2.png"
