@@ -47,7 +47,7 @@
 
 <br></br>
 
-# simple login signup with flutter & UI Design
+# Simple Login Signup with flutter & UI Design
 
 Perintah untuk menjalankan sebuah flutter :
 ```
@@ -56,8 +56,8 @@ flutter run
 ```
 Berikut adalah perancangan tampilan login di figma :
 
-[!img](ss/1.png)
+![Alt text](ss/1.png) 
 
 Dan ini adalah tampilan login sederhana menggunakan flutter, berikut output nya :
 
-[!img](ss/2.png)
+![Alt text](ss/2.png)
