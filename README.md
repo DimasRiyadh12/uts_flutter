@@ -56,8 +56,8 @@ flutter run
 ```
 Berikut adalah perancangan tampilan login di figma :
 
-<img src="ss/1.png"
+[!img](ss/1.png)
 
 Dan ini adalah tampilan login sederhana menggunakan flutter, berikut output nya :
 
-<img src="ss/2.png"
+[!img](ss/2.png)
