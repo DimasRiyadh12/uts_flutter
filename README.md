@@ -49,15 +49,15 @@
 
 # Simple Login Signup with flutter & UI Design
 
-Perintah untuk menjalankan sebuah flutter :
+### Perintah untuk menjalankan sebuah flutter :
 ```
 flutter pub get
 flutter run
 ```
-Berikut adalah perancangan tampilan login di figma :
+### Berikut adalah perancangan tampilan login di figma :
 
-![Alt text](ss/1.png) 
+![img](ss/1.png) 
 
-Dan ini adalah tampilan login sederhana menggunakan flutter, berikut output nya :
+### Dan ini adalah tampilan login sederhana menggunakan flutter, berikut output nya :
 
-![Alt text](ss/2.png)
+![img](ss/2.png)
